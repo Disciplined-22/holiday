@@ -1,0 +1,5 @@
+a {
+    color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
+    text-decoration: underline;
+    text-underline-offset: 5px; /* Adjust this value to control the gap */
+}
